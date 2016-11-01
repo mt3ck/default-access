@@ -1,0 +1,15 @@
+{
+	"appname": "default access",
+	"scope": "FullAccess",
+	"clientid": "961A96A4-EF8E-45DB-AC4A-D1AFA52FEE07",
+	"buyerid": "buyer",
+	"catalogid": "buyer",
+	"environment": "prod",
+	"anonymous": false,
+	"base": {
+		"left": true,
+		"right": false,
+		"top": true,
+		"bottom": false
+	}
+}
